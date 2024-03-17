@@ -1,0 +1,79 @@
+{
+    "image": [
+        ".jpg",
+        ".png",
+        ".gif",
+        ".webp",
+        ".cr2",
+        ".tif",
+        ".bmp",
+        ".heif",
+        ".jxr",
+        ".psd",
+        ".ico",
+        ".dwg"
+    ],
+    "video": [
+        ".mp4",
+        ".m4v",
+        ".mkv",
+        ".webm",
+        ".mov",
+        ".avi",
+        ".wmv",
+        ".mpg",
+        ".flv",
+        ".3gp"
+    ],
+    "audio": [
+        ".mid",
+        ".mp3",
+        ".m4a",
+        ".ogg",
+        ".flac",
+        ".wav",
+        ".amr",
+        ".aac",
+        ".aiff"
+    ],
+    "archive": [
+        ".epub",
+        ".zip",
+        ".tar",
+        ".rar",
+        ".gz",
+        ".bz2",
+        ".7z",
+        ".xz",
+        ".zstd",
+        ".pdf",
+        ".exe",
+        ".swf",
+        ".rtf",
+        ".iso",
+        ".eot",
+        ".ps",
+        ".sqlite",
+        ".nes"
+    ],
+    "documents": [
+        ".doc",
+        ".docx",
+        ".xls",
+        ".xlsx",
+        ".ppt",
+        ".pptx",
+        ".txt"
+    ],
+    "font": [
+        ".woff",
+        ".woff2",
+        ".ttf",
+        ".otf"
+    ],
+    "application": [
+        ".wasm",
+        ".dex",
+        ".dey"
+    ]
+}
